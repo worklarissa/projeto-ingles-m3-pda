@@ -6,5 +6,5 @@
 
 /* function formula (capital, juros) {
     let conta = capital * (1 + juros)** tempo
-    console.log () 
+    console.log (conta) 
 }*/
